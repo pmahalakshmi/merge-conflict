@@ -7,8 +7,10 @@ Initial Function()
 
 feaature2()
 {
-  //Sample Code for Feature 2
+echo "This code is for feature2"
 }
-
-
+Initial Security()
+{
+echo "This code is for security update"
+}
 }
