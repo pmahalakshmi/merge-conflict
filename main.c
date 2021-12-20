@@ -7,7 +7,8 @@ Initial Function()
 
 feature1()
 {
-echo "This code is for feature1"	
+echo "This code is for feature1"
+echo "Work done for feature1
 }
 
 Initial Security()
